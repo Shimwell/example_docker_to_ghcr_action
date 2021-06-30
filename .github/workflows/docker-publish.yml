@@ -19,7 +19,7 @@ jobs:
         name: Build and push visit Docker image
         uses: docker/build-push-action@v2
         with:
-          file: Dockerfile
+          # file: Dockerfile
           context: .
           push: true
           tags: my_first_ghcr_docker

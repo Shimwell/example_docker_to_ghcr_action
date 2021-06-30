@@ -22,4 +22,4 @@ jobs:
           # file: Dockerfile
           context: .
           push: true
-          tags: my_first_ghcr_docker
+          tags: ghcr.io/shimwell/my_first_ghcr_docker

@@ -11,4 +11,4 @@ This has a few advantages of uploading to dockerhub
   - downloading into GH based CI is quicker
 
 There is also at least one disadvantage:
-  -names space for dockerimage is a bit longer (ghcr.io/ must be included in front of image name)
+  - names space for dockerimage is a bit longer (ghcr.io/ must be included in front of image name)
